@@ -213,7 +213,7 @@ Flask was used to create a web application for hosting the ASL detection system,
 
 ![screenshot of flask application](images/flask.png)
 
-**website link** --> https://www.google.com/
+**website link** --> https://american-sign-language-detection-wduy.onrender.com/
 
 ## Conclusion
 
